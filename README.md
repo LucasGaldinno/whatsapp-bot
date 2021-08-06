@@ -11,7 +11,7 @@ April 2021 (version 1.56)
 
 <h1>Funcionalidades da aplicação :hammer_and_wrench:</h1>
 
-- Envia mensagens definidas no código para qaulquer grupo <br><br>
+- Envia mensagens definidas no código para qaulquer grupo ou contatos, <br> que já foram definidos no campo de definição de contatos <br><br>
 
 <h2> Abaixo você consegue estar visualizando a imagem do código :pushpin:</h2>
 <img src="./Screenshots/codigopython.png">
